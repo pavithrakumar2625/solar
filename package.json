@@ -1,0 +1,10 @@
+{
+  "name": "solarrecover-ai",
+  "private": true,
+  "workspaces": ["apps/web"],
+  "scripts": {
+    "dev": "npm run dev --workspace @solarrecover/web",
+    "build": "npm run build --workspace @solarrecover/web",
+    "lint": "npm run lint --workspace @solarrecover/web"
+  }
+}

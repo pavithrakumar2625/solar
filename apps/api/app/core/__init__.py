@@ -1,0 +1,1 @@
+"""SolarRecover AI — Core Package"""
